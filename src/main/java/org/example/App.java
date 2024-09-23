@@ -9,7 +9,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 /**
- * JavaFX App Céklasaláta vvbvb
+ * JavaFX App Céklasaláta vvbvb -Kocsisger
  */
 public class App extends Application {
 
